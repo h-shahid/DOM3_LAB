@@ -1,0 +1,15 @@
+.squares {
+    background-color: black; 
+    color: white;
+    height: 6em;
+    width: 6em;
+    display: flex;
+    margin: 1em;
+    flex-wrap: wrap;
+
+}
+
+body  {
+    display: flex;
+    flex-wrap: wrap;
+}
